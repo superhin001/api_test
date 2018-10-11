@@ -1,0 +1,788 @@
+[2018-09-26 10:51:38] INFO [run: run.py, 61] ================================== 测试开始 ==================================
+[2018-09-26 10:52:00] INFO [run: run.py, 61] ================================== 测试开始 ==================================
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:52:00] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] INFO [run: run.py, 61] ================================== 测试开始 ==================================
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:53:48] INFO [run: run.py, 74] ================================== 测试结束 ==================================
+[2018-09-26 10:57:24] INFO [run: run.py, 61] ================================== 测试开始 ==================================
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:24] INFO [run: run.py, 74] ================================== 测试结束 ==================================
+[2018-09-26 10:57:39] INFO [run: run.py, 61] ================================== 测试开始 ==================================
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:39] INFO [run: run.py, 74] ================================== 测试结束 ==================================
+[2018-09-26 10:57:59] INFO [run: run.py, 61] ================================== 测试开始 ==================================
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:57:59] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] INFO [run: run.py, 63] ================================== 测试开始 ==================================
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 10:58:27] ERROR [default_exception_handler: base_events.py, 1259] Task exception was never retrieved
+future: <Task finished coro=<TestSuite.startRunCase() done, defined at C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py:146> exception=AttributeError("'_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'",)>
+Traceback (most recent call last):
+  File "C:\Users\hanzhichao\AppData\Local\Programs\Python\Python36\lib\unittest\suite.py", line 164, in startRunCase
+    yield from loop.run_in_excutor(None, test, result)
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute 'run_in_excutor'
+[2018-09-26 18:05:12] INFO [run: run.py, 63] ================================== 测试开始 ==================================
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_normal
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"123456"}
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>登录成功</h1>
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>登录成功</h1>
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_login_password_wrong
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/login/
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"1234567"}
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 13] 期望结果：<h1>失败，用户名或密码错误</h1>
+[2018-09-26 18:05:12] INFO [log_case_info: case_log.py, 14] 实际结果：<h1>失败，用户名或密码错误</h1>
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_reg_exist
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/reg/
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "张三","password":"123456"}
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 13] 期望结果：{"code": "100001", "data": {"name": "张三", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "失败，用户已存在"}
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 14] 实际结果：{"code": "100001", "data": {"name": "张三", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "失败，用户已存在"}
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 10] 测试用例：test_user_reg_normal
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 11] url：http://115.28.108.130:5000/api/user/reg/
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 12] 请求参数：{"name": "范冰冰","password":"123456"}
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 13] 期望结果：{"code": "100000", "data": {"name": "范冰冰", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "成功"}
+[2018-09-26 18:05:13] INFO [log_case_info: case_log.py, 14] 实际结果：{"code": "100000", "data": {"name": "范冰冰", "password": "e10adc3949ba59abbe56e057f20f883e"}, "msg": "成功"}
+[2018-09-26 18:05:13] INFO [run: run.py, 73] ================================== 测试结束 ==================================
